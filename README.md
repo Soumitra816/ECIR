@@ -1,4 +1,4 @@
-This folder contains the implementation of the UTCSM model as cotribution to the paper titled: "Beyond Sentiment Analysis: Mapping Coarse-grained Sentiment to Fine-grained Emotions using Zero-shot Approach"
+This folder contains the implementation of the UMoSE model as cotribution to the paper titled: "Unsupervised Emotion Mapping from Sentiment: A Zero-shot Learning Breakthrough"
 
 
 
